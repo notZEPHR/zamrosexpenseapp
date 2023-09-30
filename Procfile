@@ -1,0 +1,1 @@
+web: gunicorn Zamrosexpensestracker.wgsi --log-file -
